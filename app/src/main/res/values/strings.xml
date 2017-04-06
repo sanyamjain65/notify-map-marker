@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LetMeNotify</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signupbutton">SignUP</string>
+    <string name="edit1">Email Address</string>
+    <string name="button1">Login</string>
+    <string name="signup">SignUp</string>
+    <string name="info_window">Saksham Randi</string>
+    <string name="info_window_title">Title</string>
+    <string name="distance">Distance:</string>
+    <string name="location">Location</string>
+    <string name="bid">Bid</string>
+    <string name="budget">Budget:</string>
+    <string name="min">Min</string>
+    <string name="hypen">-</string>
+    <string name="rupee_sign">₹</string>
+    <string name="max">Max</string>
+</resources>
